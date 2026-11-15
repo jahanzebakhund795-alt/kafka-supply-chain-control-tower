@@ -1,0 +1,8 @@
+# Direct dependency versions used for local validation; optional integrations have separate requirements.
+fastapi==0.115.14
+uvicorn==0.34.3
+pydantic==2.13.5
+confluent-kafka==2.8.2
+psycopg[binary]==3.2.13
+pytest==8.4.2
+httpx==0.28.1

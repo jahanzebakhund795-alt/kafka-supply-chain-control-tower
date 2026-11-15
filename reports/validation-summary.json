@@ -1,0 +1,7 @@
+{
+  "pytest_passed": 3,
+  "pytest_output": "...                                                                      [100%]\n3 passed in 0.75s",
+  "executed": "Persistent event replay, stale source versions, conflicting events, poison-message quarantine, SQL failure propagation, and FastAPI queries. The local service demo was executed.",
+  "not_executed": "Kafka and PostgreSQL containers were not started; the PostgreSQL adapter and Compose topology require their integration environment.",
+  "test_python": "3.9.6"
+}
